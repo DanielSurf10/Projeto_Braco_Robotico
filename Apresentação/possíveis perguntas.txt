@@ -1,0 +1,26 @@
+1 - O que é um arduino em si?
+	O arduino é a junção do seu microcontrolador Atega com outros perfiféricos, gravador, comunicação serial, e uma IDE de fácil programação, entre outros.
+
+2 - Pq usar servos motores?
+	Os servos motores ao contrario de um motor normal pode ser ajustado precisamente em um ângulo específico, e seu preço é menor que um motor de passo.
+
+5 - Por que usar um controle?
+	O controle já vem implementado os botões, e foi mais fácil usa-lo, e para evitar ruído (bouncing) e não causar falha desnecessária.
+
+6 - Qual a finalidade do potênciometro?
+	Ler é informar o controlador do Ângulo que o operador deseja ao servo motor.
+
+7 - Preço, pq ficou tão caro?
+	Porque é um protótipo, e a mão de obra é cara. Se fosse uma produção em larga escala, iria ficar mais barato.
+
+8 - Pq escolhemos o braço robótico como projeto?
+	Pois ele ta implementado na indústria, e facilita no processo montagem que ele foi programado, e a segurança do trabalhador.
+
+9 - Pq não colocou uma interface entre o servo e o arduino?
+	Não precisa, pois a interface está dentro do servo.
+
+10 - Por que usar a saída serial como GUI (Interface do Usuário)?
+	Não optamos em usar um LCD pra não ficar mais caro, a saída serial pode ter mais linhas, e ser mais fácil programação.
+
+
+
